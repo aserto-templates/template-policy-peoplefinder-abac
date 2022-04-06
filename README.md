@@ -1,1 +1,1 @@
-# template-policy-peoplefinder-abac
+# Template for policy-peoplefinder-abac
